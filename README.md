@@ -23,8 +23,8 @@ Outside of work, I'm building my own home lab to gain practical experience with 
 - **Cisco Networking Academy** – Introduction to Cybersecurity
 
 ### 📚 Currently Learning
-Advanced PowerShell scripting
-Windows Server administration
-Active Directory administration
-Networking fundamentals
-Cybersecurity and SOC fundamentals
+- Advanced PowerShell scripting
+- Windows Server administration
+- Active Directory administration
+- Networking fundamentals
+- Cybersecurity and SOC fundamentals
